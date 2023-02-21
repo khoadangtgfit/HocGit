@@ -1,2 +1,1 @@
-this is frontend 2 
-gia vo sai commit de revert
+this is frontend 2
